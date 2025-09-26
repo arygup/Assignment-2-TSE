@@ -1,0 +1,8 @@
+Robust Model Performance After Adversarial Training
+==================================================
+Accuracy on Clean Test Set: 98.76%
+Average Loss on Clean Test Set: 0.0424
+
+Accuracy on Adversarial Test Set: 89.94%
+Average Loss on Adversarial Test Set: 0.3371
+
